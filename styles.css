@@ -1,0 +1,35 @@
+
+#master {background-image: url("/Users/matthewkoch/lc101/html-me-something/images/pexels-photo-221471.jpeg");
+    background-size: 1920px 1080px;}
+
+#content {background-color: #f0c0b6;
+    margin-top: 20px;
+    margin-left: 220px; margin-right: 220px; 
+    border: white hidden 2px;}
+
+
+#profile_pic {float: left; border: black solid 2px;}
+
+#picturetitle {text-align: left; font-family: Impact; size: 30px; color: white;}
+
+#pagebreak {padding-bottom: 20px;}
+
+#title {text-align: center;}
+
+#relevantskills {border: white hidden 2px; border-radius: 5px; border-right-style: dotted;}
+
+#nonrelevantskills {border: white hidden 2px; border-radius: 5px; border-right-style: dotted;}
+
+#c {text-align: center; color: white;}
+
+.Skillset {color: white; text-align: left;}
+
+.Bio {text-align: center; padding-bottom: 40px; color: white; 
+        border: white hidden 2px;
+        border-right-style: dotted}
+
+.skill1 {text-align: justify; color: white; padding-left: 50px;}
+
+.skill2 {text-align: justify; color: white; padding-left: 100px;}
+
+.skill3 {text-align: justify; color: white; padding-left: 150px;}
